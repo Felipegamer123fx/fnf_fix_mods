@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-33
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Six Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-117,
+				-35
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Six Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-33
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Six Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				0
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Six Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-165,
+				-35
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Six Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Six",
+	"position": [
+		-150,
+		100
+	],
+	"healthicon": "six",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		60,
+		110
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="M Six.png"><SubTexture name="M Six Idle0000" x="0" y="0" width="121" height="364" frameX="0" frameY="0" frameWidth="121" frameHeight="364" />
+<SubTexture name="M Six Idle0001" x="121" y="0" width="121" height="364" frameX="0" frameY="0" frameWidth="121" frameHeight="364" />
+<SubTexture name="M Six Idle0002" x="0" y="364" width="121" height="364" frameX="0" frameY="0" frameWidth="121" frameHeight="364" />
+<SubTexture name="M Six Idle0003" x="121" y="364" width="121" height="364" frameX="0" frameY="0" frameWidth="121" frameHeight="364" />
+<SubTexture name="M Six Idle0004" x="0" y="728" width="121" height="364" frameX="0" frameY="0" frameWidth="121" frameHeight="364" />
+<SubTexture name="M Six Idle0005" x="121" y="728" width="121" height="364" frameX="0" frameY="0" frameWidth="121" frameHeight="364" />
+</TextureAtlas>

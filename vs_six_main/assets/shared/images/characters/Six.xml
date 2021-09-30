@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Six.png"><SubTexture name="Six Down0000" x="0" y="0" width="260" height="668" frameX="0" frameY="0" frameWidth="260" frameHeight="668" />
+<SubTexture name="Six Down0001" x="260" y="0" width="260" height="668" frameX="0" frameY="0" frameWidth="260" frameHeight="668" />
+<SubTexture name="Six Idle0000" x="520" y="0" width="219" height="668" frameX="0" frameY="0" frameWidth="219" frameHeight="668" />
+<SubTexture name="Six Idle0001" x="0" y="668" width="219" height="668" frameX="0" frameY="0" frameWidth="219" frameHeight="668" />
+<SubTexture name="Six Idle0002" x="219" y="668" width="219" height="668" frameX="0" frameY="0" frameWidth="219" frameHeight="668" />
+<SubTexture name="Six Idle0003" x="438" y="668" width="219" height="668" frameX="0" frameY="0" frameWidth="219" frameHeight="668" />
+<SubTexture name="Six Idle0004" x="0" y="1336" width="219" height="668" frameX="0" frameY="0" frameWidth="219" frameHeight="668" />
+<SubTexture name="Six Idle0005" x="219" y="1336" width="219" height="668" frameX="0" frameY="0" frameWidth="219" frameHeight="668" />
+<SubTexture name="Six Left0000" x="438" y="1336" width="211" height="668" frameX="0" frameY="0" frameWidth="211" frameHeight="668" />
+<SubTexture name="Six Left0001" x="0" y="2004" width="219" height="668" frameX="0" frameY="0" frameWidth="219" frameHeight="668" />
+<SubTexture name="Six Right0000" x="219" y="2004" width="292" height="668" frameX="0" frameY="0" frameWidth="292" frameHeight="668" />
+<SubTexture name="Six Right0001" x="511" y="2004" width="302" height="668" frameX="0" frameY="0" frameWidth="302" frameHeight="668" />
+<SubTexture name="Six Up0000" x="0" y="2672" width="201" height="698" frameX="0" frameY="0" frameWidth="201" frameHeight="698" />
+<SubTexture name="Six Up0001" x="201" y="2672" width="201" height="698" frameX="0" frameY="0" frameWidth="201" frameHeight="698" />
+</TextureAtlas>

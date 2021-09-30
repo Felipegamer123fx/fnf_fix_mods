@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sixDanceTitle.png"><SubTexture name="sixDanceTitle Six Dance Beat0000" x="0" y="0" width="219" height="668" frameX="0" frameY="0" frameWidth="219" frameHeight="668" />
+<SubTexture name="sixDanceTitle Six Dance Beat0001" x="0" y="668" width="219" height="668" frameX="0" frameY="0" frameWidth="219" frameHeight="668" />
+</TextureAtlas>
